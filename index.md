@@ -1,7 +1,6 @@
 ---
 layout: home
+title: Projects
 ---
-
-## Projects
 
 - [SwiftTag](https://chrismccready.github.io/swifttag/)
